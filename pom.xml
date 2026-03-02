@@ -8,11 +8,11 @@
         <version>3.5.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.yupi</groupId>
-    <artifactId>ai-code-generator</artifactId>
+    <groupId>com.killuayz</groupId>
+    <artifactId>ai-web-generator</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ai-code-generator</name>
-    <description>ai-code-generator</description>
+    <name>ai-web-generator</name>
+    <description>ai-web-generator</description>
     <url/>
     <licenses>
         <license/>

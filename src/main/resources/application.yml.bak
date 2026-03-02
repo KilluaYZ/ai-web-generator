@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ai-code-generator-backend
+    name: ai-web-generator-backend
   # session 配置
   session:
     store-type: redis
